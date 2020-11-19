@@ -72,7 +72,7 @@ To build the project use the command:
   * Assemble the main classes  
     * `./gradlew classes`    
   * Assemble and test the project
-    * `./gradlew build`   
+    * `./gradlew build -x test`   
   * Assemble the test classes  
     * `./gradlew testClasses`  
   * Generate checkstyle reports 
